@@ -1,0 +1,30 @@
+---
+{"dg-publish":true,"permalink":"/Home Page of Digital-Garden/","tags":["blog","writing","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"1"}
+---
+
+
+## Welcome to my blog[^1]
+
+### 1. Recently posts
+
+[[使用 Claude-3.7 制作 SVG 图\|使用 Claude-3.7 制作 SVG 图]]
+
+[[AI coding 体验\|AI coding 体验]] 
+
+ [[为何产品的定价至关重要\|为何产品的定价至关重要]]
+ 
+[[软件设计/软件设计中的原则\|软件设计中的原则]]
+	
+
+### 2. Others
+
+[[现代写作风格分析\|现代写作风格分析]]
+
+> link： https://bright-empanada-5bc762.netlify.app/
+
+> 社区： https://forum-zh.obsidian.md/
+
+
+
+
+[^1]: Powered by [digital-garden](https://dg-docs.ole.dev/)
