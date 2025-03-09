@@ -20,7 +20,7 @@
 
 [[现代写作风格分析\|现代写作风格分析]]
 
-> link： https://bright-empanada-5bc762.netlify.app/
+> link： https://cerulean-moxie-275dab.netlify.app/
 
 > 社区： https://forum-zh.obsidian.md/
 
