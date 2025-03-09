@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/AI coding 体验/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/AI coding 体验/","noteIcon":"default"}
 ---
 
 

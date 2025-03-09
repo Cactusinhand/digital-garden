@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/使用 Claude-3.7 制作 SVG 图/","noteIcon":"1"}
+{"dg-publish":true,"permalink":"/使用 Claude-3.7 制作 SVG 图/","noteIcon":"default"}
 ---
 
 
