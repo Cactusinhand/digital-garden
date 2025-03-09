@@ -3,7 +3,7 @@
 ---
 
 
-## Welcome to my blog[^1]
+## Welcome to my blog
 
 ### 1. Recently posts
 
@@ -26,5 +26,4 @@
 
 
 
-
-[^1]: Powered by [digital-garden](https://dg-docs.ole.dev/)
+Powered by [digital-garden](https://dg-docs.ole.dev/)
